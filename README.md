@@ -2,6 +2,8 @@
 
 Инструмент для автоматического анализа CVE уязвимостей из отчетов Kaspersky Security Center с использованием API National Vulnerability Database (NVD).
 
+# РАБОТАЕТ ТОЛЬКО С .XLSX
+
 ### Описание
 
 Скрипт автоматически:
